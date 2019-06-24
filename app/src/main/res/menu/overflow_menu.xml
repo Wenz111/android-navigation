@@ -18,5 +18,11 @@
         <!--android:icon="@drawable/ic_settings"-->
         <!--android:menuCategory="secondary"-->
         <!--android:title="@string/settings" />-->
+
+    <item
+        android:id="@+id/settings_dest"
+        android:icon="@drawable/ic_settings"
+        android:menuCategory="secondary"
+        android:title="@string/settings" />
     <!-- TODO END STEP 9.1 -->
 </menu>
