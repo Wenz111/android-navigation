@@ -36,7 +36,7 @@
             <!-- TODO STEP 12.2 -->
             <!--<nav-graph android:value="@navigation/mobile_navigation" />-->
             <!-- TODO END STEP 12.2-->
-
+            <nav-graph android:value="@navigation/mobile_navigation" />
         </activity>
 
         <receiver android:name=".DeepLinkAppWidgetProvider">
